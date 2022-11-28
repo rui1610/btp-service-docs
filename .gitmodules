@@ -1,0 +1,3 @@
+[submodule "btp-service-metadata"]
+	path = btp-service-metadata
+	url = https://github.com/SAP-samples/btp-service-metadata
