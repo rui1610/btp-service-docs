@@ -4,9 +4,9 @@ name: Fetch BTP service metadata
 # 2. Generate the documentation as markdown
 
 on:
-  workflow_dispatch:
   schedule:
       - cron: "0 7 * * *"
+  workflow_dispatch:
 
 jobs:
   update-metadata-artifacts:
