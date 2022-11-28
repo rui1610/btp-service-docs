@@ -1,0 +1,10 @@
+#! /usr/bin/env python3
+from doc_generator import createDocsForServiceDetails
+from utils import loadJSONFiles, remove_path
+from constants import METADATA_REPO_DEVELOPERS, FOLDER_OUTPUT_DOCS
+
+services = loadJSONFiles(METADATA_REPO_DEVELOPERS, "*.json")
+
+remove_path(FOLDER_OUTPUT_DOCS)
+
+createDocsForServiceDetails(services)

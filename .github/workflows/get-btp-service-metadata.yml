@@ -1,0 +1,45 @@
+name: Fetch BTP service metadata
+# This action executes the following up actions needed after an update of the metadata happened
+# 1. Fetch the BTP service metadata from the btp-service-metadata every day at 7am UCT
+# 2. Generate the documentation as markdown
+
+on:
+  workflow_dispatch:
+  schedule:
+      - cron: "0 7 * * *"
+
+jobs:
+  update-metadata-artifacts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Fetch curated metadata from SAP-samples/btp-service-metadata
+      - name: Sync sub module
+        run: |
+          git submodule update --remote
+
+      # Generate JSON schema for usecase.json and parameters.json
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies for JSON schema generation
+        run: |
+          cd scripts
+          pip install -r requirements.txt
+
+      - name: Execute generation of JSON schemas
+        run: |
+          cd scripts
+          python3 generator
+
+      - name: Commit and push changes
+        run: |
+          git add -A
+          git config user.email "mydocubot@users.noreply.github.com"
+          git config user.name "[my docu bot] docu generation"
+          git diff --quiet && git diff --staged --quiet || git commit -m "[my docu bot] Generate parameter documentation"
+          git push
