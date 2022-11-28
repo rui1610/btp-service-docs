@@ -33,7 +33,8 @@ jobs:
 
       - name: Execute generation of JSON schemas
         run: |
-          python3 scripts/getdata
+          cd scripts
+          python3 getdata
 
       - name: Commit and push changes
         run: |
