@@ -14,24 +14,21 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          submodules: true
 
-      # Fetch curated metadata from SAP-samples/btp-service-metadata
-      - name: Sync sub module
-        run: |
-          git submodule update --remote
-
-      # Generate JSON schema for usecase.json and parameters.json
+      # Install python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.9"
 
-      - name: Install dependencies for JSON schema generation
+      - name: Install python packages
         run: |
           cd scripts
           pip install -r requirements.txt
 
-      - name: Execute generation of JSON schemas
+      - name: Execute generation of docs
         run: |
           cd scripts
           python3 getdata

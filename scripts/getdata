@@ -3,8 +3,11 @@ from doc_generator import createDocsForServiceDetails
 from utils import loadJSONFiles, remove_path
 from constants import METADATA_REPO_DEVELOPERS, FOLDER_OUTPUT_DOCS
 
+print("Fetch BTP service metadata information")
 services = loadJSONFiles(METADATA_REPO_DEVELOPERS, "*.json")
 
+print("Delete output folder")
 remove_path(FOLDER_OUTPUT_DOCS)
 
+print("Output service MD files")
 createDocsForServiceDetails(services)
