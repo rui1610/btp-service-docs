@@ -2,7 +2,7 @@ import os
 import shutil
 from pathlib import Path
 from utils import renderTemplateWithJson
-from constants import FOLDER_OUTPUT_DOCS, TEMPLATE_DEVELOPERS_MD, CATEGORIES
+from constants import FOLDER_OUTPUT_DOCS, TEMPLATE_DEVELOPERS_MD, CATEGORIES, TEMPLATE_DEVELOPERS_MD_INDEX, FOLDER_OUTPUT_DOCS_MD, INDEX_OUTPUT_DOCS_MD
 from re import sub
 from copy import deepcopy
 
@@ -15,19 +15,18 @@ def createDocsForServiceDetails(services):
 
     serviceList = convertToServiceListByCategory(services)
 
+    # Create an overview page with all services
+    renderTemplateWithJson(TEMPLATE_DEVELOPERS_MD_INDEX, INDEX_OUTPUT_DOCS_MD, {"services": serviceList})
+
     # Create a detailed page for each service
     for category in serviceList:
         for service in category.get("list"):
 
             filenameBase = normalize_id(service.get("name"))
 
-            targetFile = Path(FOLDER_OUTPUT_DOCS, filenameBase + ".md").resolve()
+            targetFile = Path(FOLDER_OUTPUT_DOCS_MD, filenameBase + ".md").resolve()
             templateFile = Path(TEMPLATE_DEVELOPERS_MD).resolve()
             renderTemplateWithJson(templateFile, targetFile, {"service": service, "category": category, "plansInRegions": getSupportedPlansInRegions(service)})
-
-            # targetFile = Path(FOLDER_OUTPUT_DOCS_HTML, filenameBase + ".html").resolve()
-            # templateFile = Path(TEMPLATE_DEVELOPERS_HTML).resolve()
-            # renderTemplateWithJson(templateFile, targetFile, {"service": service, "category": category, "plansInRegions": getSupportedPlansInRegions(service)})
 
 
 def normalize_id(id: str) -> str:
@@ -92,6 +91,7 @@ def getServicesForCategory(category, rawData):
         if servicePlans:
             thisService = deepcopy(service)
             thisService["servicePlans"] = servicePlans
+            thisService["normalized_id"] = normalize_id(thisService.get("name"))
             result.append(thisService)
     sortedResult = sorted(result, key=lambda d: (d['name'].lower()), reverse=False)
 
