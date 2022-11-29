@@ -18,10 +18,16 @@ def createDocsForServiceDetails(services):
     # Create a detailed page for each service
     for category in serviceList:
         for service in category.get("list"):
-            markdownName = normalize_id(service.get("name")) + ".md"
-            targetFile = Path(FOLDER_OUTPUT_DOCS, markdownName).resolve()
+
+            filenameBase = normalize_id(service.get("name"))
+
+            targetFile = Path(FOLDER_OUTPUT_DOCS, filenameBase + ".md").resolve()
             templateFile = Path(TEMPLATE_DEVELOPERS_MD).resolve()
             renderTemplateWithJson(templateFile, targetFile, {"service": service, "category": category, "plansInRegions": getSupportedPlansInRegions(service)})
+
+            # targetFile = Path(FOLDER_OUTPUT_DOCS_HTML, filenameBase + ".html").resolve()
+            # templateFile = Path(TEMPLATE_DEVELOPERS_HTML).resolve()
+            # renderTemplateWithJson(templateFile, targetFile, {"service": service, "category": category, "plansInRegions": getSupportedPlansInRegions(service)})
 
 
 def normalize_id(id: str) -> str:

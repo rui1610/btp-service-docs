@@ -1,4 +1,5 @@
 # btp-service-docs
-Provides some examples on how to make use of the btp-service-metadata
 
-Checkout the [service-docs](service-docs/) folder for generated markdown files. These files are generated on a daily basis via the defined [Github action](.github/workflows/get-btp-service-metadata.yml).
+This repository provides examples on how to make use of the [btp-service-metadata](https://github.com/SAP-samples/btp-service-metadata) repository.
+
+This repository runs on a daily basis via a defined [Github action](.github/workflows/get-btp-service-metadata.yml). It crawls through the service metadata it fetches from the [btp-service-metadata](https://github.com/SAP-samples/btp-service-metadata) repository and transforms it into various formats stored in the [service-docs](service-docs/) folder.

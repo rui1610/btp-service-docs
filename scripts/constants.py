@@ -8,8 +8,12 @@ METADATA_REPO_DEVELOPERS = Path(METADATA_REPO, "developer").resolve()
 
 FOLDER_TEMPLATES = Path(ROOT, "templates").resolve()
 
-FOLDER_OUTPUT_DOCS = Path(ROOT, "service-docs").resolve()
+FOLDER_OUTPUT_DOCS = Path(ROOT, "docs").resolve()
+FOLDER_OUTPUT_DOCS_MD = Path(FOLDER_OUTPUT_DOCS, "md").resolve()
+FOLDER_OUTPUT_DOCS_HTML = Path(FOLDER_OUTPUT_DOCS, "html").resolve()
+
 TEMPLATE_DEVELOPERS_MD = Path(FOLDER_TEMPLATES, "SERVICE-DETAILS.MD").resolve()
+TEMPLATE_DEVELOPERS_HTML = Path(FOLDER_TEMPLATES, "SERVICE-DETAILS.HTML").resolve()
 
 # service categories
 CATEGORIES = {}
