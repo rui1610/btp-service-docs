@@ -10,6 +10,11 @@ Master data application for existing customers of SAP Master Data service for bu
 |  **us10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- LOD-MDM-ORC
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/viewer/product/DRAFT/SAP_CLOUD_PLATFORM_MASTER_DATA_INTEGRATION/CLOUD/en-US)

@@ -10,6 +10,10 @@ The MultiChain service lets you create, delete, monitor and maintain individual 
 |  **us10** | ✅ | ✅ | ✅ | ✅ |
 
 ## Additional details
+### API Hub
+
+- [Overview | SAP Business Technology Platform - Blockchain Technologies | SAP API Business Hub](https://api.sap.com/package/SCPBlockchainTechnologies/overview)
+
 ### Documentation
 
 - [What's New](https://help.sap.com/doc/43b304f99a8145809c78f292bfc0bc58/Cloud/en-US/98bf747111574187a7c76f8ced51cfeb.html?Component=MultiChain)
@@ -17,6 +21,7 @@ The MultiChain service lets you create, delete, monitor and maintain individual 
 - [Creating a MultiChain Service Instance](https://help.sap.com/viewer/215f45a9aee1419095188f35ab7aaf38/BLOCKCHAIN/en-US/0183c6479c47427ab6257bd37ab8bee3.html)
 - [Creating MultiChain Service Keys and Accessing APIs](https://help.sap.com/viewer/215f45a9aee1419095188f35ab7aaf38/BLOCKCHAIN/en-US/23819474549a4257975d482ed24c7e04.html)
 - [Building a MultiChain Network](https://help.sap.com/viewer/215f45a9aee1419095188f35ab7aaf38/BLOCKCHAIN/en-US/2c0cc96ae73346d190581dad4e1c0e0e.html)
+- [Documentation](https://help.sap.com/docs/HYPERLEDGER_FABRIC)
 - [Help Portal Product Page](https://help.sap.com/docs/MULTICHAIN)
 
 ### Learning

@@ -46,8 +46,7 @@ SAP HANA Cloud provides a single place to access, store, and process all enterpr
 
 ### External
 
-- [Top New Features in SAP HANA Cloud](https://www.youtube.com/embed/N1irItqyNco)
-- [What's New in SAP HANA Cloud](https://www.youtube.com/embed/c21ug2CG0CM)
+- [Top New Features in SAP HANA Cloud](https://www.youtube.com/embed/fpFsSdijpcE)
 - [SAP HANA Cloud: Getting Started - Overview](https://www.youtube.com/embed/oF9Occg1bfg)
 
 ### Legal
@@ -64,9 +63,9 @@ SAP HANA Cloud provides a single place to access, store, and process all enterpr
 
 ### SAP Community
 
-- [SAP HANA Cloud Community](https://community.sap.com/topics/hana-cloud)
 - [SAP Community Blog Posts](https://community.sap.com/search/?ct=blog&q=SAP%20HANA%20Cloud)
 - [SAP Community Questions and Answers](https://community.sap.com/search/?ct=qa&q=SAP%20HANA%20Cloud)
+- [SAP HANA Cloud Community](https://community.sap.com/topics/hana-cloud)
 
 ### Support
 

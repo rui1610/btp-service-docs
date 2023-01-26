@@ -7,6 +7,7 @@ SAP Forms service by Adobe lets you generate print and interactive forms using A
 | Region | standard |
 |--------|----------|
 |  **eu10** | ✅ |
+|  **eu11** | ✅ |
 |  **us10** | ✅ |
 
 ## Additional details
@@ -33,7 +34,6 @@ SAP Forms service by Adobe lets you generate print and interactive forms using A
 - [Configuration Tool](https://help.sap.com/docs/BTP/dcbea777ceb3411cb10500a1a392273e/5e7f0a84b70349309094ebaf26cb3bfb.html)
 - [Use Case](https://help.sap.com/docs/BTP/dcbea777ceb3411cb10500a1a392273e/6320b2af29de47c9800f658b9f3f3a52.html)
 - [API Documentation](https://help.sap.com/docs/BTP/dcbea777ceb3411cb10500a1a392273e/661c02ef20d54bfeb309d42608baeaca.html)
-- [Documentation](https://help.sap.com/docs/BTP/dcbea777ceb3411cb10500a1a392273e/8a668ee41fea4cf39c6bd6d21bff6a6e.html)
 - [Architecture](https://help.sap.com/docs/BTP/dcbea777ceb3411cb10500a1a392273e/8f003de6886344428e28707b17cc8248.html)
 - [Migration from On-Premise ADS or Neo Subaccount](https://help.sap.com/docs/BTP/dcbea777ceb3411cb10500a1a392273e/9acaec4e6a7841ff9960f4b229320eb5.html)
 - [Help Portal Product Page](https://help.sap.com/docs/CP_FORMS_BY_ADOBE)

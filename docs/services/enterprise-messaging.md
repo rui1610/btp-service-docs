@@ -98,7 +98,17 @@ You can setup a service instance for **enterprise-messaging** by configuring you
     {
       "category": "SERVICE",
       "name": "enterprise-messaging",
-      "plan": "default"
+      "plan": "default",
+      "parameters" : {
+        "emname": null,
+        "namespace": null,
+        "version": null,
+        "resources": null,
+        "options": null,
+        "rules": null,
+        "authorities": null,
+        "xs-security": null
+      }
     }
   ]
 }

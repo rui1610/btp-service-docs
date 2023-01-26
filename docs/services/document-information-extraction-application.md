@@ -13,6 +13,11 @@ UI Application to upload document for extraction to Document Information Extract
 |  **us10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- CA-ML-BDP
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/viewer/product/DOCUMENT_INFORMATION_EXTRACTION)

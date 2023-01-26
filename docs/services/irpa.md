@@ -45,6 +45,10 @@ SAP Intelligent Robotic Process Automation lets you automate enterprise business
 
 - [SAP Intelligent RPA Store](https://irpa.store.sap.com/#/explore/order=last-updated%2Cdesc)
 
+### Legal
+
+- [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
+
 ### SAP Community
 
 - [SAP Intelligent Robotic Process Automation Community](https://community.sap.com/topics/intelligent-rpa)

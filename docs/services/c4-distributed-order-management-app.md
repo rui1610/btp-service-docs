@@ -10,12 +10,19 @@ The SAP Order Management foundation solution, including the application and serv
 |  **eu20** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- CEC-BAF-DOM
+
 ### API Hub
 
 - [Overview | SAP Order Management Foundation | SAP API Business Hub](https://api.sap.com/package/SAPOrderManagementFoundation/overview)
+- [Overview | SAP Order Management Foundation Business Events | SAP API Business Hub](https://api.sap.com/package/SAPOrderManagementFoundationBusinessEvents/overview)
 
 ### Documentation
 
+- [Documentation](https://help.sap.com/docs/SAP_EM)
 - [Documentation](https://help.sap.com/docs/SAP_Order_Management_Foundation)
 
 ### Support

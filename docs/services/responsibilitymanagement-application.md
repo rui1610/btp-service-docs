@@ -10,6 +10,11 @@ As we move toward an intelligent enterprise, intelligent systems need to determi
 |  **eu11** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- CA-GTF-RM-SCP
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/viewer/product/RESPONSIBILITY_MANAGEMENT_SCP/SHIP/en-US)

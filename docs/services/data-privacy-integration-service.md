@@ -8,15 +8,16 @@ Data Privacy Integration (DPI) is a service that supports applications realize t
 |--------|-------------|------|
 |  **ap10** | ✅ | ✅ |
 |  **ap11** | ✅ | ✅ |
-|  **ap21** | ✅ | ✅ |
+|  **ap21** | | ✅ |
+|  **br10** | ✅ | ✅ |
 |  **eu10** | ✅ | ✅ |
 |  **eu11** | ✅ | ✅ |
 |  **eu20** | ✅ | ✅ |
-|  **jp20** | ✅ | ✅ |
+|  **jp20** | | ✅ |
 |  **us10** | ✅ | ✅ |
 |  **us20** | ✅ | ✅ |
 |  **us21** | ✅ | ✅ |
-|  **us30** | ✅ | ✅ |
+|  **us30** | | ✅ |
 
 ## Additional details
 

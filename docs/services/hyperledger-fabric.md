@@ -10,6 +10,10 @@ The Hyperledger Fabric service on SAP BTP lets you provision a Hyperledger Fabri
 |  **us10** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ## Additional details
+### API Hub
+
+- [Overview | SAP Business Technology Platform - Blockchain Technologies | SAP API Business Hub](https://api.sap.com/package/SCPBlockchainTechnologies/overview)
+
 ### Documentation
 
 - [What's New](https://help.sap.com/doc/43b304f99a8145809c78f292bfc0bc58/Cloud/en-US/98bf747111574187a7c76f8ced51cfeb.html?Component=Hyperledger%20Fabric)
@@ -19,6 +23,7 @@ The Hyperledger Fabric service on SAP BTP lets you provision a Hyperledger Fabri
 - [Understanding a Hyperledger Fabric Network](https://help.sap.com/viewer/b45fb6803f784c0496b5ae7cd771e186/BLOCKCHAIN/en-US/7700dfca1a9f4382823d197347acde87.html)
 - [Creating and Managing Hyperledger Fabric Channels](https://help.sap.com/viewer/b45fb6803f784c0496b5ae7cd771e186/BLOCKCHAIN/en-US/d4456a38676b4c8e94c0588730010bfd.html)
 - [Help Portal Product Page](https://help.sap.com/docs/HYPERLEDGER_FABRIC)
+- [Documentation](https://help.sap.com/docs/MULTICHAIN)
 
 ### Learning
 

@@ -12,7 +12,6 @@ SAP Data Warehouse Cloud provides a single, fully-managed cloud environment to a
 |  **br10** | ✅ | ✅ |
 |  **ca10** | ✅ | ✅ |
 |  **eu10** | ✅ | ✅ |
-|  **eu11** | ✅ | ✅ |
 |  **jp10** | ✅ | ✅ |
 |  **us10** | ✅ | ✅ |
 

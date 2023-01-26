@@ -26,6 +26,10 @@ Intelligent Situation Automation is an extension of Situation Handling. It proce
 - [User Guide for Intelligent Situation Automation](https://help.sap.com/viewer/dd7bde0fac4e421bb79830f81df88c86/1.0/en-US)
 - [Help Portal Product Page](https://help.sap.com/viewer/product/INTELLIGENT_SITUATION_AUT/1.0/en-US)
 
+### Legal
+
+- [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
+
 ### SAP Community
 
 - [SAP Community Blog Posts](https://community.sap.com/search/?ct=blog&q=Intelligent%20Situation%20Automation)

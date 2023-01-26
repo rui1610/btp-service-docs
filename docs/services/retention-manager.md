@@ -8,15 +8,13 @@ The SAP Business Technology Platform Data Retention Manager lets you block or de
 |--------|------|----------|
 |  **ap10** | ✅ | ✅ |
 |  **ap11** | ✅ | ✅ |
-|  **ap21** | ✅ | ✅ |
+|  **br10** | ✅ | ✅ |
 |  **eu10** | ✅ | ✅ |
 |  **eu11** | ✅ | ✅ |
 |  **eu20** | ✅ | ✅ |
-|  **jp20** | ✅ | ✅ |
 |  **us10** | ✅ | ✅ |
 |  **us20** | ✅ | ✅ |
 |  **us21** | ✅ | ✅ |
-|  **us30** | ✅ | ✅ |
 
 ## Additional details
 

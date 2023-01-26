@@ -10,13 +10,20 @@ The Manage Market Rates application enables you to read and manage market data y
 |  **us10** | ✅ | ✅ |
 
 ## Additional details
+
+### Support components
+
+- LOD-CBS-CS
+
 ### Discovery Center
 
+- [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/market-rates-bring-your-own-rates)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/market-rates-refinitiv)
 
 ### Documentation
 
 - [Documentation](https://help.sap.com/docs/SAP_CP_BUS_REUSE_SERVICE_MRM_TR)
+- [Documentation](https://help.sap.com/viewer/product/SAP_CP_BUS_REUSE_SERVICE_MRM_APP/LATEST/en-US)
 
 ## Sample configuration of **SAP Market Rates Management** for btp-setup-automator
 

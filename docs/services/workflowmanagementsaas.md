@@ -28,6 +28,7 @@ Digitize workflows, manage decisions and gain end-to-end process visibility
 
 ### Support components
 
+- LOD-BPM-PFS
 - LOD-BPM-WFS
 
 ### Discovery Center

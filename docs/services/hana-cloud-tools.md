@@ -27,6 +27,11 @@ SAP HANA Cloud provides a single place to access, store, and process all enterpr
 |  **us30** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- HAN-CLS-HC
+
 ### Discovery Center
 
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud)

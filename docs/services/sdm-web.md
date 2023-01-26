@@ -37,9 +37,11 @@ Benefit from the standalone, ready-to-use web application of SAP Document Manage
 ### Documentation
 
 - [Feature Scope Description](https://help.sap.com/doc/4551b91432244b9586798187207100a7/)
-- [Manage Document Management Service, Application](https://help.sap.com/docs/BTP/f6e70dd4bffa4b65965b43feed4c9429/24382e5628cf4607816e1120e1db98f2.html)
-- [What is Document Management Service](https://help.sap.com/docs/BTP/f6e70dd4bffa4b65965b43feed4c9429/27e742e062924d72a9f1cb94a8c8346c.html)
-- [Consume Document Management Service, Repository](https://help.sap.com/docs/BTP/f6e70dd4bffa4b65965b43feed4c9429/59e3cb769e4f4487a2417d59d65f8276.html)
+- [Onboarding](https://help.sap.com/docs/DOCUMENT_MANAGEMENT/f6e70dd4bffa4b65965b43feed4c9429/636e8820ed3d4887813ea2c2cae47e23.html)
+- [Security Guide](https://help.sap.com/docs/DOCUMENT_MANAGEMENT/f6e70dd4bffa4b65965b43feed4c9429/bfbb1cd940f24302bdd9d8f82f660a14.html)
+- [Consume Document Management, repository](https://help.sap.com/viewer/DRAFT/f6e70dd4bffa4b65965b43feed4c9429/Cloud/en-US/59e3cb769e4f4487a2417d59d65f8276.html)
+- [What is Document Management](https://help.sap.com/viewer/f6e70dd4bffa4b65965b43feed4c9429/Cloud/en-US)
+- [Manage Document Management, application](https://help.sap.com/docs/BTP/f6e70dd4bffa4b65965b43feed4c9429/24382e5628cf4607816e1120e1db98f2.html)
 - [Initial Setup](https://help.sap.com/docs/BTP/f6e70dd4bffa4b65965b43feed4c9429/636e8820ed3d4887813ea2c2cae47e23.html)
 - [What's New](https://help.sap.com/docs/BTP/f6e70dd4bffa4b65965b43feed4c9429/c54fa8c2b5164dc2ae636e44fe92cacd.html)
 - [Documentation](https://help.sap.com/docs/DOCUMENT_MANAGEMENT)
@@ -47,6 +49,10 @@ Benefit from the standalone, ready-to-use web application of SAP Document Manage
 ### External
 
 - [Know about Document Management in less than 3 mins](https://www.youtube.com/embed/AwFlRaEmUvo)
+
+### Support
+
+- [Monitoring and Troubleshooting](https://help.sap.com/docs/DOCUMENT_MANAGEMENT/f6e70dd4bffa4b65965b43feed4c9429/8a33bf75776849cfa06feecb22aba9d6.html)
 
 ## Sample configuration of **Document Management Service, Application Option** for btp-setup-automator
 

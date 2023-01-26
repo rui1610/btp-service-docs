@@ -9,6 +9,11 @@ Low-code / no-code tools from SAP that accelerate SAP business applications deve
 |  **eu10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- CA-LCA
+
 ### Discovery Center
 
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/sap-appgyver)

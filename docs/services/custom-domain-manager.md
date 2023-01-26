@@ -27,6 +27,11 @@ The SAP Business Technology Platform Custom Domain service lets you configure yo
 |  **us30** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- BC-CP-CF-SEC-DOM
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/docs/CUSTOM_DOMAINS)

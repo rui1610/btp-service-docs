@@ -10,17 +10,29 @@ The SAP Order Management foundation solution, including the application and serv
 |  **eu20** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- CEC-BAF-DOM
+
 ### API Hub
 
 - [Overview | SAP Order Management Foundation | SAP API Business Hub](https://api.sap.com/package/SAPOrderManagementFoundation/overview)
+- [Overview | SAP Order Management Foundation Business Events | SAP API Business Hub](https://api.sap.com/package/SAPOrderManagementFoundationBusinessEvents/overview)
 
 ### Documentation
 
+- [Feature Scope Description](https://help.sap.com/doc/65309ba6056d4d6c8dc40195ec4b3074/)
+- [Documentation](https://help.sap.com/docs/SAP_EM)
+- [Integration Guide](https://help.sap.com/docs/SAP_Order_Management_Foundation/95fb0d8e21b9460b8e4690ebbc667d92/0c2255104eb549069933a925dfe71503.html)
+- [Initial Setup](https://help.sap.com/docs/SAP_Order_Management_Foundation/d91676a7fa624c31b7b1c526d7787e2f/227cf2f493d74fd6a996a88f29c82bee.html)
+- [What is SAP Order Management Foundation?](https://help.sap.com/docs/SAP_Order_Management_Foundation/d91676a7fa624c31b7b1c526d7787e2f/4ad3e8588fb84c2db3bc0efa8bc88866.html)
 - [Documentation](https://help.sap.com/docs/SAP_Order_Management_Foundation/d91676a7fa624c31b7b1c526d7787e2f/ca6630612cf741ed8927d60fabe13929.html)
-- [Documentation](https://help.sap.com/docs/SAP_Order_Management_Foundation)
+- [Help Portal Product Page](https://help.sap.com/docs/SAP_Order_Management_Foundation)
 - [Documentation](https://help.sap.com/viewer/032cde7eac274695897645010260f636/latest/en-US/ca6630612cf741ed8927d60fabe13929.html)
 - [Documentation](https://help.sap.com/viewer/product/C4_OrdMgmt/latest/en-US)
 - [Documentation](https://help.sap.com/viewer/product/SAP_Order_Management_Foundation/)
+- [What's New](https://help.sap.com/whats-new/255d859bc7ea47dfbdf4274b73cacc17)
 
 ### SAP Community
 

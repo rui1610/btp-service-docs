@@ -9,7 +9,6 @@ SAP Automation Pilot provides out-of-the-box high-quality automation such as app
 |  **ap10** | ✅ | ✅ |
 |  **ap21** | ✅ | ✅ |
 |  **eu10** | ✅ | ✅ |
-|  **jp20** | ✅ | ✅ |
 |  **us30** | ✅ | ✅ |
 
 ## Additional details
@@ -44,7 +43,7 @@ SAP Automation Pilot provides out-of-the-box high-quality automation such as app
 
 ### Legal
 
-- [Legal](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
+- [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
 
 ### SAP Community
 

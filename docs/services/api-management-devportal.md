@@ -20,6 +20,11 @@ API Management technology helps you to share digital assets and enables consumpt
 |  **us21** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- OPU-API-OD
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_CLOUD_PLATFORM_API_MANAGEMENT)

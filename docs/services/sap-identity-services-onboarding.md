@@ -1,4 +1,4 @@
-# sap-identity-services-onboarding (Cloud Identity Services)
+# sap-identity-services-onboarding (SAP Cloud Identity Services)
 
 Cloud Identity Services provide basic capabilities for user authentication.
 
@@ -17,6 +17,7 @@ Cloud Identity Services provide basic capabilities for user authentication.
 |  **eu10** | ✅ | ✅ | ✅ |
 |  **eu11** | ✅ | | ✅ |
 |  **eu20** | ✅ | | ✅ |
+|  **in30** | ✅ | ✅ | ✅ |
 |  **jp10** | ✅ | ✅ | ✅ |
 |  **jp20** | ✅ | | ✅ |
 |  **us10** | ✅ | ✅ | ✅ |
@@ -29,6 +30,7 @@ Cloud Identity Services provide basic capabilities for user authentication.
 ### Support components
 
 - BC-IAM-IDS
+- BC-IAM-IPS
 
 ### Discovery Center
 
@@ -46,11 +48,13 @@ Cloud Identity Services provide basic capabilities for user authentication.
 - [Properties](https://help.sap.com/docs/BTP/f48e822d6d484fa5ade7dda78b64d9f5/e92c1aa0bb634ec1a35f353f0a4588ec.html)
 - [What is Identity Provisioning](https://help.sap.com/docs/BTP/f48e822d6d484fa5ade7dda78b64d9f5/f2b2df8a273642a1bf801e99ecc4a043.html)
 - [Documentation](https://help.sap.com/docs/IDENTITY_AUTHENTICATION)
-- [Help Portal Product Page](https://help.sap.com/docs/IDENTITY_PROVISIONING)
+- [Documentation](https://help.sap.com/docs/IDENTITY_PROVISIONING)
 
 ### SAP Community
 
 - [SAP Cloud Identity Services](https://community.sap.com/topics/cloud-identity-services)
+- [SAP Community Blog Posts](https://community.sap.com/search/?ct=blog&q=SAP%20Cloud%20Identity%20Services)
+- [SAP Community Questions and Answers](https://community.sap.com/search/?ct=qa&q=SAP%20Cloud%20Identity%20Services)
 
 ### Support
 
@@ -63,7 +67,7 @@ Cloud Identity Services provide basic capabilities for user authentication.
 - [Hybrid Scenario: SAP IDM](https://help.sap.com/docs/BTP/f48e822d6d484fa5ade7dda78b64d9f5/6fa419a1901a464ea7dd214bcf476468.html)
 - [Real-Time Provisioning: Identity Authentication](https://help.sap.com/docs/BTP/f48e822d6d484fa5ade7dda78b64d9f5/70afd909734842b08ff8f1be5b01bc2a.html)
 
-## Sample configuration of **Cloud Identity Services** for btp-setup-automator
+## Sample configuration of **SAP Cloud Identity Services** for btp-setup-automator
 
 The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
 

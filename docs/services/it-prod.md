@@ -20,6 +20,11 @@ The SAP Cloud Integration connects cloud applications with other SAP and non-SAP
 |  **us21** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- LOD-HCI-PI
+
 ### API Hub
 
 - [Overview | SAP Cloud Integration | SAP API Business Hub](https://api.sap.com/package/CloudIntegrationAPI/overview)

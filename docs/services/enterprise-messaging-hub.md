@@ -27,6 +27,11 @@ The SAP Event Mesh service decouples communication and allows for event-driven b
 |  **us30** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- OPU-GW-OD-MES
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/docs/SAP_ENTERPRISE_MESSAGING)

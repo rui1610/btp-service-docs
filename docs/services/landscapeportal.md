@@ -9,6 +9,11 @@ The Landscape Portal acts as a central tool that allows SaaS providers to keep t
 |  **eu10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- BC-CP-ABA-LP
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/5eb70fb003954619b09224167a0afaa4.html)

@@ -14,11 +14,20 @@ SAP IoT business services allow you to put raw sensor data into business object 
 ## Additional details
 ### Documentation
 
+- [Discuss with IoT developers and experts](https://developers.sap.com/topics/iot-application-enablement.html#community)
 - [Documentation](https://answers.sap.com/tags/73554900100800002247)
 - [Enterprise Architecture Explorer Product Page](https://eaexplorer.hana.ondemand.com/_item.html?id=12351#!/facet/18)
 - [From Things to Outcomes Presentation](https://eaexplorer.hana.ondemand.com/rest/mimeRepositories/12412/file/L1_IoT_app_services_August_2016.pdf)
+- [Feature Scope Description](https://help.sap.com/doc/f7254d7f9e0d4dc9b54a3f5f95987a2b/latest/en-US/leonardo_iot_fsd.pdf)
+- [API Documentation](https://help.sap.com/viewer/080fabc6cae6423fb45fca7752adb61e/latest/en-US)
+- [Initial Setup](https://help.sap.com/viewer/195126f4601945cba0886cbbcbf3d364/latest/en-US/bfe6a46a13d14222949072bf330ff2f4.html)
+- [Rule-based IoT Data Processing](https://help.sap.com/viewer/1ab61090ec4c4c779cd4360372ab95b5/latest/en-US)
+- [Tenant Administration](https://help.sap.com/viewer/500ea53fcd9a4974a338747cebf1d350/latest/en-US)
+- [What's New](https://help.sap.com/viewer/81d9f9ab5a3b430f83430c9f41aacb27/latest/en-US)
+- [Thing Modeler Apps](https://help.sap.com/viewer/e057ad687acc4d2d8f2893609aff248b/latest/en-US)
+- [What is SAP IoT](https://help.sap.com/viewer/fffd6ca18e374c2e80688dab5c31527f/latest/en-US)
 - [Documentation ](https://help.sap.com/docs/SAP_IOT_APPLICATION_SERVICES)
-- [Documentation](https://help.sap.com/docs/SAP_I)
+- [Help Portal Product Page](https://help.sap.com/docs/SAP_I)
 - [Documentation](https://help.sap.com/docs/SAP_L)
 - [Open SAP Course ](https://open.sap.com/courses/iot3)
 - [Tutorials ](https://www.sap.com/developer/topics/iot-application-enablement.tutorials.html#tutorials)
@@ -27,12 +36,21 @@ SAP IoT business services allow you to put raw sensor data into business object 
 ### External
 
 - [SAP IoT Application Enablement - Thing Modeler](https://www.youtube.com/embed/KQJqkhary08)
+- [Activating Innovation with SAP IoT](https://www.youtube.com/embed/T0y30QPe8jo)
 - [SAP IoT Application Enablement - Developer Experience & Web IDE](https://www.youtube.com/embed/x5S6t6XNUxE)
 - [SAP Leonardo IoT Training Sessions](https://www.youtube.com/playlist?list=PLWV533hWWvDnP5S4PLiC1d-J7hj1sjZn6)
 
 ### Marketing
 
 - [To learn more about the service and the purchasing options please contact your account executive or visit our SAP Store.](https://www.sapstore.com/solutions/40108/SAP-Leonardo-IoT-Foundation%2C-express-edition)
+
+### Support
+
+- [Support ticket components for SAP IoT](https://help.sap.com/viewer/195126f4601945cba0886cbbcbf3d364/latest/en-US/60e9baa62230413b8870db44c741eef1.html)
+
+### Tutorial
+
+- [Tutorial: Develop your own Internet of Things (IoT) applications](https://developers.sap.com/topics/iot-application-enablement.html#tutorials)
 
 ## Sample configuration of **SAP IoT** for btp-setup-automator
 

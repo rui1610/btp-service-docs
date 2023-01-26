@@ -49,6 +49,10 @@ SAP Business Application Studio is the next generation of SAP Web IDE, offering 
 - [Building Applications with SAP Cloud Application Programming Model](https://open.sap.com/courses/cp7)
 - [SAP Fiori Overview: Design, Develop and Deploy](https://open.sap.com/courses/fiori3)
 
+### Legal
+
+- [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
+
 ### SAP Community
 
 - [SAP Business Application Studio Homepage](https://community.sap.com/topics/business-application-studio)

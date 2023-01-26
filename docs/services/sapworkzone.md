@@ -21,6 +21,11 @@ Increase the productivity and engagement for your employees as well as interact 
 |  **us21** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- EP-WZ-COR
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/docs/WZ)

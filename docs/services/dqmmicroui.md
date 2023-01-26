@@ -9,13 +9,18 @@ Manage settings and field mappings using configurations. View number of transact
 |  **eu10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- EIM-DQM-SVS
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/docs/BTP/d95546360fea44988eb614718ff7e959/8bb7b22e6d4c40b5bfdaef86f59e2036.html)
 
 ### Legal
 
-- [Legal](https://www.sap.com/about/trust-center/agreements/on-premise/product-use-and-support-terms.html?tag=agreements:product-use-support-terms/on-premise-software/software-use-rights/)
+- [License Terms](https://www.sap.com/about/trust-center/agreements/on-premise/product-use-and-support-terms.html?tag=agreements:product-use-support-terms/on-premise-software/software-use-rights/)
 
 ## Sample configuration of **Data Quality Services UI** for btp-setup-automator
 

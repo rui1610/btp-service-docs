@@ -7,9 +7,15 @@ SAP Forms service by Adobe lets you generate print and interactive forms using A
 | Region | standard |
 |--------|----------|
 |  **eu10** | ✅ |
+|  **eu11** | ✅ |
 |  **us10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- BC-SRV-FP-CF
+
 ### API Hub
 
 - [Overview | SAP Forms Service by Adobe | SAP API Business Hub](https://api.sap.com/package/SAPFormsServicebyAdobe/overview)
@@ -20,8 +26,8 @@ SAP Forms service by Adobe lets you generate print and interactive forms using A
 
 ### Documentation
 
+- [Documentation](https://help.sap.com/docs/CP_FORMS_BY_ADOBE/dcbea777ceb3411cb10500a1a392273e/661c02ef20d54bfeb309d42608baeaca.html)
 - [Documentation](https://help.sap.com/viewer/dcbea777ceb3411cb10500a1a392273e/Cloud/en-US)
-- [Documentation](https://help.sap.com/docs/BTP/dcbea777ceb3411cb10500a1a392273e/661c02ef20d54bfeb309d42608baeaca.html)
 - [Documentation](https://help.sap.com/docs/BTP/dcbea777ceb3411cb10500a1a392273e/8f003de6886344428e28707b17cc8248.html)
 - [Documentation](https://help.sap.com/docs/BTP/dcbea777ceb3411cb10500a1a392273e/9acaec4e6a7841ff9960f4b229320eb5.html)
 - [Documentation](https://help.sap.com/docs/BTP/dcbea777ceb3411cb10500a1a392273e/c765f8ca186d47369b199032ccb83523.html)
@@ -34,6 +40,7 @@ SAP Forms service by Adobe lets you generate print and interactive forms using A
 ### Swagger
 
 - [Swagger](https://adsrestapi-formsprocessing.cfapps.eu10.hana.ondemand.com/swagger-ui.html)
+- [Swagger](https://adsrestapi-formsprocessing.cfapps.eu11.hana.ondemand.com/swagger-ui.html)
 - [Swagger](https://adsrestapi-formsprocessing.cfapps.us10.hana.ondemand.com/swagger-ui.html)
 
 ## Sample configuration of **SAP Forms service by Adobe** for btp-setup-automator

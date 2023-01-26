@@ -9,6 +9,11 @@ SAP Enterprise Architecture Designer, Cloud Edition (SAP EA Designer) lets you c
 |  **eu10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- BC-EAD
+
 ### Documentation
 
 - [Feature Scope Description](https://help.sap.com/http.svc/rc/cb79879167bd42008e388e8c56155ea9/Cloud/en-US/fsd_ead_ce_en.pdf)

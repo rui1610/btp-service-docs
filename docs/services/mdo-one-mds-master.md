@@ -13,6 +13,11 @@ Master data application that allows master data replication according to predete
 |  **us10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- LOD-MDM-ORC
+
 ### Discovery Center
 
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/master-data-integration)

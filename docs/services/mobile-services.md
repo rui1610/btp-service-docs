@@ -61,6 +61,7 @@ Use Mobile Services to provide mobile access to enterprise information. Key feat
 - [Documentation](https://mobile-service-cockpit-web.cfapps.eu11.hana.ondemand.com)
 - [Documentation](https://mobile-service-cockpit-web.cfapps.eu20.hana.ondemand.com)
 - [Documentation](https://mobile-service-cockpit-web.cfapps.eu30.hana.ondemand.com)
+- [Documentation](https://mobile-service-cockpit-web.cfapps.in30.hana.ondemand.com)
 - [Documentation](https://mobile-service-cockpit-web.cfapps.jp10.hana.ondemand.com)
 - [Documentation](https://mobile-service-cockpit-web.cfapps.jp20.hana.ondemand.com)
 - [Documentation](https://mobile-service-cockpit-web.cfapps.us10.hana.ondemand.com)

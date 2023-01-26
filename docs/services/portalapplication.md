@@ -17,6 +17,7 @@ SAP Cloud Portal service lets you build digital experience portals for employees
 |  **eu11** | ✅ |
 |  **eu20** | ✅ |
 |  **eu30** | ✅ |
+|  **in30** | ✅ |
 |  **jp10** | ✅ |
 |  **jp20** | ✅ |
 |  **us10** | ✅ |
@@ -25,6 +26,11 @@ SAP Cloud Portal service lets you build digital experience portals for employees
 |  **us30** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- EP-CPP-CF-LND
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/viewer/product/Portal_Service/1.0/en-US)

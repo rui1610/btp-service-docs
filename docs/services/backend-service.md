@@ -9,6 +9,11 @@ With SAP Business Technology Platform Backed service you can build robust, scala
 |  **eu10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- OPU-GW-OD-EBS
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/viewer/70dea311943a4ab99f903ccc584225f6/Cloud/en-US)

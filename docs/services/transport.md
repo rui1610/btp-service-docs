@@ -38,8 +38,8 @@ SAP Cloud Transport Management service lets you manage software deliverables bet
 
 ### Blog
 
-- [Blogs about SAP Cloud Transport Management](https://blogs.sap.com/?s=cloud+transport+management)
 - [Blog](https://blogs.sap.com/?s=transport+management+service)
+- [Blogs about SAP Cloud Transport Management](https://blogs.sap.com/?s=cloud+transport+management)
 
 ### Discovery Center
 
@@ -48,6 +48,7 @@ SAP Cloud Transport Management service lets you manage software deliverables bet
 ### Documentation
 
 - [Feature Scope Description](https://help.sap.com/doc/b5430836c20d4bd8a975cb4d48b4e7a5/)
+- [Security](https://help.sap.com/docs/TRANSPORT_MANAGEMENT_SERVICE/7f7160ec0d8546c6b3eab72fb5ad6fd8/51939a49db9749578b7e237139bfd08d.html)
 - [SAP Cloud Transport Management](https://help.sap.com/viewer/7f7160ec0d8546c6b3eab72fb5ad6fd8/Cloud/en-US)
 - [Initial Setup](https://help.sap.com/docs/BTP/7f7160ec0d8546c6b3eab72fb5ad6fd8/66fd7283c62f48adb23c56fb48c84a60.html)
 - [What's New](https://help.sap.com/docs/BTP/7f7160ec0d8546c6b3eab72fb5ad6fd8/85b6ac3c2925448c86bcd04f0da6678e.html)

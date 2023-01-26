@@ -4,37 +4,32 @@ Centralizes access to relevant business applications, processes, information, an
 
 ## Service plan availability in regions
 
-| Region | standard |
-|--------|----------|
-|  **ap10** | ✅ |
-|  **ap11** | ✅ |
-|  **ap12** | ✅ |
-|  **ap20** | ✅ |
-|  **ap21** | ✅ |
-|  **br10** | ✅ |
-|  **ca10** | ✅ |
-|  **eu10** | ✅ |
-|  **eu11** | ✅ |
-|  **eu20** | ✅ |
-|  **eu30** | ✅ |
-|  **in30** | ✅ |
-|  **jp10** | ✅ |
-|  **jp20** | ✅ |
-|  **us10** | ✅ |
-|  **us20** | ✅ |
-|  **us21** | ✅ |
-|  **us30** | ✅ |
+| Region | advanced | standard |
+|--------|----------|----------|
+|  **ap10** | ✅ | ✅ |
+|  **ap11** | ✅ | ✅ |
+|  **ap12** | ✅ | ✅ |
+|  **ap20** | ✅ | ✅ |
+|  **ap21** | ✅ | ✅ |
+|  **br10** | ✅ | ✅ |
+|  **ca10** | ✅ | ✅ |
+|  **eu10** | ✅ | ✅ |
+|  **eu11** | ✅ | ✅ |
+|  **eu20** | ✅ | ✅ |
+|  **eu30** | ✅ | ✅ |
+|  **in30** | ✅ | ✅ |
+|  **jp10** | ✅ | ✅ |
+|  **jp20** | ✅ | ✅ |
+|  **us10** | ✅ | ✅ |
+|  **us20** | ✅ | ✅ |
+|  **us21** | ✅ | ✅ |
+|  **us30** | ✅ | ✅ |
 
 ## Additional details
 
 ### Support components
 
-- EP-CPP-CF-LND
 - EP-WZ-COR
-
-### API Hub
-
-- [Overview | SAP Cloud Portal Service | SAP API Business Hub](https://api.sap.com/package/SAPCLOUDPLATFORMPORTAL/overview)
 
 ### Discovery Center
 
@@ -45,11 +40,8 @@ Centralizes access to relevant business applications, processes, information, an
 
 - [API Documentation](https://jam2.sapjam.com/work_zone/ODataDocs/ui)
 - [Feature Scope Description](https://help.sap.com/doc/38609c8ddb7c418ba864e9ded377f1e8/)
-- [Documentation](https://help.sap.com/viewer/8422cb487c2146999a2a7dab9cc85cf7/Cloud/en-US)
 - [What is SAP Build Work Zone, advanced edition?](https://help.sap.com/docs/BTP/b03c84105ff74f809631e494bd612e83/5c0103b130de411fb2a4b5416e36d767.html)
 - [Onboarding](https://help.sap.com/docs/BTP/b03c84105ff74f809631e494bd612e83/f8c6eab5b9c8437f9367271863ac90eb.html)
-- [Documentation](https://help.sap.com/viewer/product/Launchpad_Service/Cloud/en-US)
-- [Documentation](https://help.sap.com/viewer/product/Portal_Service/1.0/en-US)
 - [Help Portal Product Page](https://help.sap.com/docs/WZ)
 
 ### SAP Community
@@ -66,6 +58,21 @@ Centralizes access to relevant business applications, processes, information, an
 The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
 
 You can setup a service instance for **build-workzone-advanced** by configuring your `usecase.json` file.
+
+### Using the service plan **advanced**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "SERVICE",
+      "name": "build-workzone-advanced",
+      "plan": "advanced"
+    }
+  ]
+}
+```
 
 ### Using the service plan **standard**
 

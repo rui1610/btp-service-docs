@@ -11,6 +11,11 @@ Provides Business Partner data from third-party data providers
 |  **us10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- LOD-MDM-DE
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/viewer/product/Cloud_Platform_Data_Enrichment/latest/en-US)

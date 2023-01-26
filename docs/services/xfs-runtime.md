@@ -48,6 +48,7 @@ Allows you to create, manage, configure extensions on SAP Business Technology Pl
 
 ### Tool
 
+- [Serverless Runtime Development Tools](https://help.sap.com/docs/BTP/bf7b2ff68518427c85b30ac3184ad215/612f4ceafcdf45bfac40a8fc0b1a88ae.html)
 - [SAP Business Technology Platform Serverless Runtime CLI](https://help.sap.com/docs/BTP/bf7b2ff68518427c85b30ac3184ad215/8400ccd0efc94c3096a9468c1e5f63ce.html)
 
 ## Sample configuration of **SAP BTP, serverless runtime** for btp-setup-automator

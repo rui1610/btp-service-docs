@@ -27,6 +27,11 @@ Provides access to SAP Business Technology Platform Integration runtime (integra
 |  **us30** | ✅ | ✅ |
 
 ## Additional details
+### Documentation
+
+- [Documentation](https://help.sap.com/docs/SAP_INTEGRATION_SUITE/51ab953548be4459bfe8539ecaeee98d/19af5e205fe14af6a4f8a9fd80d4dc92.html)
+- [Documentation](https://help.sap.com/docs/SAP_INTEGRATION_SUITE/51ab953548be4459bfe8539ecaeee98d/6abc8746df294fe4ac5877e39683dee6.html)
+
 ### Support
 
 - [Support](https://cloudintegration.hana.ondemand.com/PI/help)

@@ -31,15 +31,16 @@ The SAP Task Center service only enables, but does not include the integration i
 
 - [Overview | SAP Task Center | SAP API Business Hub](https://api.sap.com/package/SAPTaskCenter/overview)
 
+### Blog
+
+- [See all SAP Task Center Blogs](https://blogs.sap.com/tag/sap-task-center/)
+
 ### Discovery Center
 
 - [SAP Discovery Center - SAP Task Center](https://discovery-center.cloud.sap/serviceCatalog/sap-task-center)
 
 ### Documentation
 
-- [API Documentation](https://api.sap.com/package/SAPTaskCenter?section=Artifacts)
-- [Access the SAP Task Center API using Postman](https://blogs.sap.com/2021/06/08/access-the-sap-task-center-api-using-postman/)
-- [See all SAP Task Center Blogs](https://community.sap.com/topics/task-center?ct=blog)
 - [SAP Task Center Detailed Presentation](https://d.dam.sap.com/a/a2x3zwM/SAP%20Task%20Center_L3%20Presentation.pdf?rc=10)
 - [SAP Task Center: Click, Read, Approve, Repeat!](https://news.sap.com/2021/12/sap-task-center-click-read-approve-repeat/)
 - [Integrate Solutions in Your Intelligent Enterprise: What's Trending?](https://www.youtube.com/watch?v=CF1ADKt4l3k)

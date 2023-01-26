@@ -23,6 +23,11 @@ SAP Audit Log Viewer service for SAP BTP helps to view and manage audit logs.
 |  **us30** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- BC-CP-CF-SEC-AUDITLG
+
 ### Discovery Center
 
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service)

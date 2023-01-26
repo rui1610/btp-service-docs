@@ -1,13 +1,13 @@
-# sap-build-apps (SAP Build Apps)
+# sap-build-apps-runtime (SAP Build Apps runtime)
 
-SAP Build Apps is a full stack no-code development platform for creating Web and native mobile applications. Please note that an instance of Cloud Identity Services is required to successfully create a subscription. See Documentation for more information.
+The runtime service for SAP Build Apps. Allows connectivity to visual cloud functions applications developed and deployed on the SAP Build Apps runtime. A subscription to SAP Build Apps is required to use this service.
 
 ## Service plan availability in regions
 
-| Region | free | standard |
-|--------|------|----------|
-|  **eu10** | ✅ | ✅ |
-|  **us10** | ✅ | ✅ |
+| Region | standard |
+|--------|----------|
+|  **eu10** | ✅ |
+|  **us10** | ✅ |
 
 ## Additional details
 ### Discovery Center
@@ -29,34 +29,17 @@ SAP Build Apps is a full stack no-code development platform for creating Web and
 
 ### SAP Community
 
-- [SAP Community Blog Posts](https://community.sap.com/search/?ct=blog&q=SAP%20Build%20Apps)
-- [SAP Community Questions and Answers](https://community.sap.com/search/?ct=qa&q=SAP%20Build%20Apps)
 - [Community Content](https://community.sap.com/topics/build-apps?ct=blog&lng=en&tab=content)
 
 ### Support
 
 - [Support At SAP](https://support.sap.com/)
 
-## Sample configuration of **SAP Build Apps** for btp-setup-automator
+## Sample configuration of **SAP Build Apps runtime** for btp-setup-automator
 
 The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
 
-You can setup a service instance for **sap-build-apps** by configuring your `usecase.json` file.
-
-### Using the service plan **free** (Free)
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "APPLICATION",
-      "name": "sap-build-apps",
-      "plan": "free"
-    }
-  ]
-}
-```
+You can setup a service instance for **sap-build-apps-runtime** by configuring your `usecase.json` file.
 
 ### Using the service plan **standard**
 
@@ -65,8 +48,8 @@ You can setup a service instance for **sap-build-apps** by configuring your `use
   "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
   "services": [
     {
-      "category": "APPLICATION",
-      "name": "sap-build-apps",
+      "category": "SERVICE",
+      "name": "sap-build-apps-runtime",
       "plan": "standard"
     }
   ]

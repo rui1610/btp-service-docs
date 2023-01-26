@@ -40,6 +40,7 @@ SAP Content Agent service is a tool for SAP BTP applications offering generic co
 
 - [Blog: SAP Content Agent Service](https://blogs.sap.com/2020/08/30/introducing-sap-cloud-platform-content-agent-enhanced-transport-capabilities-for-sap-cloud-platform-integration-suite-content/)
 - [How to use SAP Content Agent Service](https://blogs.sap.com/2022/09/05/how-to-use-sap-content-agent-service-video/)
+- [Blog: New User Interface for Content Agent Service](https://blogs.sap.com/2022/08/09/new-user-interface-for-content-agent-service/)
 
 ### Discovery Center
 
@@ -75,7 +76,10 @@ You can setup a service instance for **content-agent** by configuring your `usec
     {
       "category": "SERVICE",
       "name": "content-agent",
-      "plan": "application"
+      "plan": "application",
+      "parameters" : {
+        "roles": ["Admin"]
+      }
     }
   ]
 }
@@ -90,7 +94,10 @@ You can setup a service instance for **content-agent** by configuring your `usec
     {
       "category": "SERVICE",
       "name": "content-agent",
-      "plan": "standard"
+      "plan": "standard",
+      "parameters" : {
+        "roles": ["Assemble"]
+      }
     }
   ]
 }

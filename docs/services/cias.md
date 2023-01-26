@@ -13,6 +13,11 @@ Cloud Integration Automation service provides you a guided workflow to integrate
 |  **us10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- BC-INS-CIT-RT
+
 ### Blog
 
 - [Cloud Integration Automation Service – What is it?](https://blogs.sap.com/2018/05/28/cloud-integration-automation-service-what-is-it/)

@@ -25,6 +25,11 @@ Open Connectors provides pre-built and feature-rich connectors to simplify the c
 |  **us30** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- LOD-OCN-SRV
+
 ### API Hub
 
 - [Overview | Platform - Open Connectors | SAP API Business Hub](https://api.sap.com/package/PlatformAPI/overview)

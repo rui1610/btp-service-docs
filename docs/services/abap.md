@@ -12,6 +12,7 @@ Access an instance to build custom ABAP cloud apps, leveraging newest innovation
 |  **br10** | | ✅ | ✅ | ✅ | ✅ |
 |  **ca10** | | ✅ | ✅ | ✅ | ✅ |
 |  **eu10** | ✅ | ✅ | ✅ | ✅ | ✅ |
+|  **eu11** | | ✅ | ✅ | ✅ | ✅ |
 |  **jp10** | ✅ | ✅ | ✅ | ✅ | ✅ |
 |  **us10** | ✅ | ✅ | ✅ | ✅ | ✅ |
 
@@ -32,6 +33,7 @@ Access an instance to build custom ABAP cloud apps, leveraging newest innovation
 ### Documentation
 
 - [Feature Scope Description](https://help.sap.com/doc/5e8107bf49684962b897217040398007/)
+- [Security](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/e129aa20c78c4a9fb379b9803b02e5f6.html)
 - [Initial Setup](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/e34a329acc804c0e874496548183682f.html)
 - [Documentation](https://help.sap.com/docs/BTP/3504ec5ef16548778610c7e89cc0eac3/11d62652aa2b4600a0fa136de0789648.html)
 - [API Documentation](https://help.sap.com/docs/BTP/5371047f1273405bb46725a417f95433/272ad1b3b09948d6a86b52ffa21c55bb.html)
@@ -91,8 +93,10 @@ You can setup a service instance for **abap** by configuring your `usecase.json`
       "parameters" : {
         "admin_email": null,
         "description": null,
+        "sapsystemname": "H01",
         "is_development_allowed": true,
-        "sapsystemname": "H01"
+        "size_of_persistence": 4,
+        "size_of_runtime": 1
       }
     }
   ]

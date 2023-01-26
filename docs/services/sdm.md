@@ -42,8 +42,10 @@ Leverage the APIs of SAP Document Management service and build your own document
 
 ### Documentation
 
-- [API Documentation](https://api.sap.com/package/SAPDocumentManagementServiceIntegrationOption/rest)
 - [Feature Scope Description](https://help.sap.com/doc/4551b91432244b9586798187207100a7/)
+- [Onboarding](https://help.sap.com/docs/DOCUMENT_MANAGEMENT/f6e70dd4bffa4b65965b43feed4c9429/bc0f1ec7d5374b968e0b0de6db470c94.html)
+- [Security Guide](https://help.sap.com/docs/DOCUMENT_MANAGEMENT/f6e70dd4bffa4b65965b43feed4c9429/bfbb1cd940f24302bdd9d8f82f660a14.html)
+- [API Documentation](https://api.sap.com/package/SAPDocumentManagementServiceIntegrationOption/rest)
 - [What is Document Management](https://help.sap.com/viewer/f6e70dd4bffa4b65965b43feed4c9429/Cloud/en-US)
 - [Manage Document Management, integration](https://help.sap.com/docs/BTP/f6e70dd4bffa4b65965b43feed4c9429/24382e5628cf4607816e1120e1db98f2.html)
 - [Documentation](https://help.sap.com/docs/BTP/f6e70dd4bffa4b65965b43feed4c9429/27e742e062924d72a9f1cb94a8c8346c.html)
@@ -59,6 +61,14 @@ Leverage the APIs of SAP Document Management service and build your own document
 ### Legal
 
 - [Legal](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
+
+### SAP Community
+
+- [Blog](https://community.sap.com/search/?ct=all&mt=73555000100800002121&q=sap%20document%20management%20service)
+
+### Support
+
+- [Monitoring and Troubleshooting](https://help.sap.com/docs/DOCUMENT_MANAGEMENT/f6e70dd4bffa4b65965b43feed4c9429/8a33bf75776849cfa06feecb22aba9d6.html)
 
 ## Sample configuration of **Document Management Service, Integration Option** for btp-setup-automator
 

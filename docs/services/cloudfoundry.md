@@ -37,11 +37,12 @@ The SAP BTP, Cloud Foundry runtime lets you develop polyglot cloud-native applic
 
 ### Documentation
 
+- [What's New](https://help.sap.com/doc/43b304f99a8145809c78f292bfc0bc58/Cloud/en-US/98bf747111574187a7c76f8ced51cfeb.html?Component=Application%20Programming%20Model;HTML5%20Application%20Repository;Multitenancy;Node.js%20System%20Buildpack;Python%20Buildpack;SAP%20Java%20Buildpack;SAPUI5&date=all)
+- [Feature Scope Description](https://help.sap.com/doc/5e8107bf49684962b897217040398007/)
+- [Security](https://help.sap.com/docs/CF_RUNTIME/4287333baaa6413a8ece0a8ed1196af4/935cceed98e74a7fa3ae170935736ca2.html)
 - [SFLIGHT Sample Application Using SAP Cloud Application Programming Model (CAP)](https://github.com/SAP-samples/cap-sflight)
 - [Sample Node.js Application Using SAP Cloud Application Programming Model (CAP)](https://github.com/SAP-samples/cloud-cap-samples)
 - [Sample Java Application Using SAP Cloud Application Programming Model (CAP)](https://github.com/SAP-samples/cloud-cap-samples-java)
-- [What's New](https://help.sap.com/doc/43b304f99a8145809c78f292bfc0bc58/Cloud/en-US/98bf747111574187a7c76f8ced51cfeb.html?Component=Application%20Programming%20Model;HTML5%20Application%20Repository;Multitenancy;Node.js%20System%20Buildpack;Python%20Buildpack;SAP%20Java%20Buildpack;SAPUI5&date=all)
-- [Feature Scope Description](https://help.sap.com/doc/5e8107bf49684962b897217040398007/)
 - [Developing HTML5 Applications](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/11d77aa154f64c2e83cc9652a78bb985.html)
 - [Development in the Cloud Foundry Environment](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/40a8f8f6f1724e0ca0fd2a8777f45504.html)
 - [Documentation](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/9c7092c7b7ae4d49bc8ae35fdd0e0b18.html)
@@ -50,11 +51,11 @@ The SAP BTP, Cloud Foundry runtime lets you develop polyglot cloud-native applic
 
 ### Learning
 
+- [SAP BTP, Cloud Foundry Environment Learning Journey](https://help.sap.com/doc/221f8f84afef43d29ad37ef2af0c4adf/HP_2.0/en-US/d3d210f71462488883768bb02e05174d.html)
 - [Develop Node.js Applications](https://open.sap.com/courses/cp1-2)
 - [Building Applications with SAP Cloud Application Programming Model](https://open.sap.com/courses/cp7/resume)
 - [Developing Web Apps with SAPUI5](https://open.sap.com/courses/ui51/resume)
 - [Evolved Web Apps with SAPUI5](https://open.sap.com/courses/ui52/resume)
-- [SAP BTP, Cloud Foundry Environment Learning Journey](https://help.sap.com/doc/221f8f84afef43d29ad37ef2af0c4adf/HP_2.0/en-US/d3d210f71462488883768bb02e05174d.html)
 
 ### Legal
 
@@ -62,13 +63,13 @@ The SAP BTP, Cloud Foundry runtime lets you develop polyglot cloud-native applic
 
 ### SAP Community
 
+- [SAP Community Blog Posts](https://community.sap.com/search/?ct=blog&q=SAP%20BTP%2C%20Cloud%20Foundry%20runtime)
+- [SAP Community Questions and Answers](https://community.sap.com/search/?ct=qa&q=SAP%20BTP%2C%20Cloud%20Foundry%20runtime)
 - [Business Application Studio](https://community.sap.com/topics/business-application-studio)
 - [SAP BTP](https://community.sap.com/topics/business-technology-platform)
 - [SAP Cloud Application Programming Model](https://community.sap.com/topics/cloud-application-programming)
 - [Low-Code/No-Code](https://community.sap.com/topics/low-code-no-code)
 - [SAPUI5](https://community.sap.com/topics/ui5/developing-sapui5-applications)
-- [SAP Community Blog Posts](https://community.sap.com/search/?ct=blog&q=SAP%20BTP%2C%20Cloud%20Foundry%20runtime)
-- [SAP Community Questions and Answers](https://community.sap.com/search/?ct=qa&q=SAP%20BTP%2C%20Cloud%20Foundry%20runtime)
 
 ### Support
 

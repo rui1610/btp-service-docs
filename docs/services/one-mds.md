@@ -57,7 +57,8 @@ You can setup a service instance for **one-mds** by configuring your `usecase.js
         "businessSystemId": null,
         "enableTenantDeletion": false,
         "writePermissions": null,
-        "logSys": null
+        "logSys": null,
+        "globalTenantId": null
       }
     }
   ]
@@ -79,6 +80,7 @@ You can setup a service instance for **one-mds** by configuring your `usecase.js
         "enableTenantDeletion": false,
         "writePermissions": null,
         "logSys": null,
+        "globalTenantId": null,
         "application": null
       }
     }

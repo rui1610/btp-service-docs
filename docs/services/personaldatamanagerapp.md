@@ -8,14 +8,13 @@ SAP Personal Data Manager provides the capability to generate reports showing th
 |--------|----------|
 |  **ap10** | ✅ |
 |  **ap11** | ✅ |
-|  **ap21** | ✅ |
+|  **br10** | ✅ |
 |  **eu10** | ✅ |
 |  **eu11** | ✅ |
 |  **eu20** | ✅ |
 |  **us10** | ✅ |
 |  **us20** | ✅ |
 |  **us21** | ✅ |
-|  **us30** | ✅ |
 
 ## Additional details
 
@@ -50,7 +49,7 @@ The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) he
 
 You can setup a service instance for **PersonalDataManagerApp** by configuring your `usecase.json` file.
 
-### Using the service plan **standard** (Standard)
+### Using the service plan **standard**
 
 ```json
 {

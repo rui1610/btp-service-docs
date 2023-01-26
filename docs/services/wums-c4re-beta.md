@@ -9,6 +9,11 @@ The Workspace Utilization Management application lets you assign sensors to work
 |  **eu10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- LOD-RE
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_CLOUD_FOR_REAL_ESTATE/2/en-US)

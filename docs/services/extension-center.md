@@ -21,6 +21,11 @@ Allows you to create, manage, configure extensions on SAP Business Technology Pl
 |  **us21** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- BC-CP-XF-SRT
+
 ### Blog
 
 - [Blogs](https://blogs.sap.com/?s=serverless+runtime)

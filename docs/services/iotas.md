@@ -15,6 +15,7 @@ SAP IoT business services allow you to put raw sensor data into business object 
 
 ### Support components
 
+- IOT-BSV-OPS-ONB
 - LOD-HCI-PI
 
 ### Discovery Center
@@ -46,10 +47,6 @@ SAP IoT business services allow you to put raw sensor data into business object 
 ### Support
 
 - [Support ticket components for SAP IoT](https://help.sap.com/viewer/195126f4601945cba0886cbbcbf3d364/latest/en-US/60e9baa62230413b8870db44c741eef1.html)
-
-### Tutorial
-
-- [Tutorial: Build a basic condition monitoring and sensor data visualization application with SAP Web IDE](https://developers.sap.com/tutorials/iot-express-5-use-webide-template.html)
 
 ## Sample configuration of **SAP IoT** for btp-setup-automator
 

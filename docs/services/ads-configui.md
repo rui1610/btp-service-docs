@@ -7,16 +7,22 @@ SAP Forms service by Adobe lets you generate print and interactive forms using A
 | Region | default |
 |--------|---------|
 |  **eu10** | ✅ |
+|  **eu11** | ✅ |
 |  **us10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- BC-SRV-FP-CF
+
 ### Discovery Center
 
 - [Discovery Center](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/forms-service-by-adobe)
 
 ### Documentation
 
-- [Documentation](https://help.sap.com/docs/BTP/dcbea777ceb3411cb10500a1a392273e/8a668ee41fea4cf39c6bd6d21bff6a6e.html)
+- [Documentation](https://help.sap.com/docs/CP_FORMS_BY_ADOBE/dcbea777ceb3411cb10500a1a392273e/661c02ef20d54bfeb309d42608baeaca.html)
 
 ## Sample configuration of **Forms Service by Adobe** for btp-setup-automator
 

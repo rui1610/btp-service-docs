@@ -1,4 +1,4 @@
-# service-manager (Service Manager)
+# service-manager (SAP Service Manager)
 
 SAP Service Manager service allows you to consume platform services in any connected runtime environment, track service instances creation, and share services and service instances between different environments.
 
@@ -53,7 +53,12 @@ SAP Service Manager service allows you to consume platform services in any conne
 - [External](https://discovery-center.cloud.sap/serviceCatalog/service-management)
 - [External](https://operatorhub.io/operator/sap-btp-operator)
 
-## Sample configuration of **Service Manager** for btp-setup-automator
+### SAP Community
+
+- [SAP Community Blog Posts](https://community.sap.com/search/?ct=blog&q=SAP%20Service%20Manager)
+- [SAP Community Questions and Answers](https://community.sap.com/search/?ct=qa&q=SAP%20Service%20Manager)
+
+## Sample configuration of **SAP Service Manager** for btp-setup-automator
 
 The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
 

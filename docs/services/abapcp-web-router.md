@@ -12,10 +12,16 @@ Get web access to your instances in the ABAP Environment including access to adm
 |  **br10** | ✅ |
 |  **ca10** | ✅ |
 |  **eu10** | ✅ |
+|  **eu11** | ✅ |
 |  **jp10** | ✅ |
 |  **us10** | ✅ |
 
 ## Additional details
+
+### Support components
+
+- BC-CP-ABA
+
 ### Documentation
 
 - [Documentation](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/98928b0941294c74b946cdcefca9b047.html)

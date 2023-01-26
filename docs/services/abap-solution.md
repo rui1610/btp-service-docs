@@ -12,6 +12,7 @@ Create an ABAP Environment based SaaS Solution
 |  **br10** | ✅ |
 |  **ca10** | ✅ |
 |  **eu10** | ✅ |
+|  **eu11** | ✅ |
 |  **jp10** | ✅ |
 |  **us10** | ✅ |
 

@@ -11,11 +11,12 @@ Guided Buying allows you to integrate procurement solutions with SAP S/4HANA Clo
 ## Additional details
 ### Documentation
 
+- [Documentation](https://help.sap.com/docs/GUIDED_BUYING)
 - [Documentation](https://help.sap.com/docs/Guided%20Buying)
 
 ### Support
 
-- [Support](https://help.sap.com/docs/Guided%20Buying/662c2bd15b5940cbaf249c814bedad91/8369e2f6dbbc44f8bfe72e69662db00c.html)
+- [Support](https://help.sap.com/docs/GUIDED_BUYING/662c2bd15b5940cbaf249c814bedad91/8369e2f6dbbc44f8bfe72e69662db00c.html)
 
 ## Sample configuration of **Guided Buying** for btp-setup-automator
 

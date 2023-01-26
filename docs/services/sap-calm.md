@@ -8,6 +8,7 @@ This is memory extension for SAP Cloud ALM.
 |--------|---------|
 |  **eu10** | ✅ |
 |  **eu20** | ✅ |
+|  **us10** | ✅ |
 
 ## Additional details
 
